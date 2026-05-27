@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="180" viewBox="0 0 920 180">
+  <defs>
+    <linearGradient id="c1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#512bd4"/><stop offset="1" stop-color="#312e81"/></linearGradient>
+    <linearGradient id="c2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3776ab"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+    <linearGradient id="c3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#276dc3"/><stop offset="1" stop-color="#1e40af"/></linearGradient>
+    <linearGradient id="c4" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#000000"/><stop offset="1" stop-color="#374151"/></linearGradient>
+  </defs>
+  <rect x="10" y="10" width="210" height="160" rx="16" fill="url(#c1)"/>
+  <text x="115" y="58" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial" font-size="22" font-weight="700">Microsoft</text>
+  <text x="115" y="88" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial" font-size="13">C | C++ | C#</text>
+  <text x="115" y="108" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial" font-size="13">ASP.NET | .NET | F#</text>
+
+  <rect x="240" y="10" width="210" height="160" rx="16" fill="url(#c2)"/>
+  <text x="345" y="58" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial" font-size="22" font-weight="700">Web Stack</text>
+  <text x="345" y="88" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial" font-size="13">Python | PHP | Java</text>
+  <text x="345" y="108" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial" font-size="13">Node | FastAPI | Laravel</text>
+
+  <rect x="470" y="10" width="210" height="160" rx="16" fill="url(#c3)"/>
+  <text x="575" y="58" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial" font-size="22" font-weight="700">Data &amp; Script</text>
+  <text x="575" y="88" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial" font-size="13">R | Lua | Julia</text>
+  <text x="575" y="108" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial" font-size="13">Perl | Scala | Bash</text>
+
+  <rect x="700" y="10" width="210" height="160" rx="16" fill="url(#c4)"/>
+  <text x="805" y="58" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial" font-size="22" font-weight="700">Systems</text>
+  <text x="805" y="88" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial" font-size="13">Rust | Go | Kotlin</text>
+  <text x="805" y="108" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial" font-size="13">Swift | Dart | Zig</text>
+</svg>

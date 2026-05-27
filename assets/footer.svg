@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="90" viewBox="0 0 920 90">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="920" height="90" rx="16" fill="#050816"/>
+  <path d="M0 40 C150 10, 300 65, 450 40 C600 15, 750 65, 920 35 L920 90 L0 90 Z" fill="url(#wave)" opacity="0.35"/>
+  <text x="460" y="52" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Built with passion in Tehran, Iran</text>
+  <text x="460" y="74" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="12">If you like my profile, give it a star</text>
+</svg>

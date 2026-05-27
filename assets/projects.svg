@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="200" viewBox="0 0 920 200">
+  <rect width="920" height="200" rx="18" fill="#0b1020" stroke="#6366f1" stroke-opacity="0.4"/>
+  <text x="460" y="32" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial" font-size="18" font-weight="700">Current Projects</text>
+
+  <rect x="24" y="52" width="270" height="120" rx="14" fill="#1e1b4b" stroke="#7c3aed"/>
+  <text x="159" y="82" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial" font-size="16" font-weight="700">VPN Mini App</text>
+  <text x="159" y="108" text-anchor="middle" fill="#c4b5fd" font-family="Segoe UI, Arial" font-size="12">FastAPI + Next.js + aiogram</text>
+  <text x="159" y="128" text-anchor="middle" fill="#c4b5fd" font-family="Segoe UI, Arial" font-size="12">3x-ui panel integration</text>
+
+  <rect x="325" y="52" width="270" height="120" rx="14" fill="#1e1b4b" stroke="#ec4899"/>
+  <text x="460" y="82" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial" font-size="16" font-weight="700">Commerce Mini App</text>
+  <text x="460" y="108" text-anchor="middle" fill="#fbcfe8" font-family="Segoe UI, Arial" font-size="12">Shop, wallet, QR, admin panel</text>
+  <text x="460" y="128" text-anchor="middle" fill="#fbcfe8" font-family="Segoe UI, Arial" font-size="12">Fully inside Telegram</text>
+
+  <rect x="626" y="52" width="270" height="120" rx="14" fill="#1e1b4b" stroke="#06b6d4"/>
+  <text x="761" y="82" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial" font-size="16" font-weight="700">Production DevOps</text>
+  <text x="761" y="108" text-anchor="middle" fill="#a5f3fc" font-family="Segoe UI, Arial" font-size="12">Docker, Nginx, systemd, VPS</text>
+  <text x="761" y="128" text-anchor="middle" fill="#a5f3fc" font-family="Segoe UI, Arial" font-size="12">Monitoring and hardening</text>
+</svg>
